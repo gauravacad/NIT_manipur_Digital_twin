@@ -33,7 +33,9 @@ To test the ESP8266 add-on installation, let’s see if we can blink an LED with
 <img width="1367" height="793" alt="image" src="https://github.com/user-attachments/assets/6192d01d-436f-450a-93e9-738c52016398" />
 
 
- APP android: https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en_IN
+# APP android: 
+
+https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en_IN
 
   
 
