@@ -1,4 +1,10 @@
 # NIT_manipur_Digital_twin
+# Installing ESp32 and ESP8266 boards 
+Note: if you already have the ESP32 boards URL, you can separate the URLs with a comma as follows:
+1. https://dl.espressif.com/dl/package_esp32_index.json,
+2. http://arduino.esp8266.com/stable/package_esp8266com_index.json
+<img width="722" height="607" alt="image" src="https://github.com/user-attachments/assets/5ff0e72d-48d2-4e81-bed5-497b81ca5a13" />
+
 # Circuit Diagram with either of available board
 <img width="1455" height="747" alt="image" src="https://github.com/user-attachments/assets/99b026d6-eb76-4873-83e1-ac7f55a372fa" />
 
