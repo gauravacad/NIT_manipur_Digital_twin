@@ -14,9 +14,15 @@
 
 # App download and desktop client
 
-1. Desktop client :- MQTTX Link: https://mqttx.app/downloads
-2. APP android: https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en_IN
-3. 
+1. Desktop client :- MQTTX [Link: https://mqttx.app/downloads]
+  
+
+<img width="1367" height="793" alt="image" src="https://github.com/user-attachments/assets/6192d01d-436f-450a-93e9-738c52016398" />
+
+
+ APP android: https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en_IN
+
+  
 
 
 
