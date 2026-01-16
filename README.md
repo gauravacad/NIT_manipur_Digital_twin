@@ -18,6 +18,11 @@ https://dl.espressif.com/dl/package_esp32_index.json,http://arduino.esp8266.com/
 
 <img width="671" height="336" alt="image" src="https://github.com/user-attachments/assets/ebe2623c-d01e-457d-89cb-50bbd3cd7160" />
 
+## For Esp32 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a65d1706-2a85-47cc-9576-7e3d87b674e5" />
+
+
 # Testing the Installation
 To test the ESP8266 add-on installation, let’s see if we can blink an LED with the ESP8266 using the Arduino programming language.
 
