@@ -1,8 +1,17 @@
-# NIT_manipur_Digital_twin
+# NIT_manipur_Hands on experiment preperation 
+## Dear students please install the Arduino IDE 1.8.19 Legacy version or newer But Good is 1.8.19 version if you have not worked / Installed on it yet. Link: [https://www.arduino.cc/en/software/]
+
+<img width="1212" height="624" alt="image" src="https://github.com/user-attachments/assets/b9943ba4-2a21-4afb-b6a9-5bb97f4ec093" />
+
+## After this You can launch the Arduino app from program files or desktop icon.
+### You will see the launch as the picture below 
+
+<img width="489" height="594" alt="image" src="https://github.com/user-attachments/assets/461b493b-c3bc-4cf8-8279-11bdd7c41418" />
+
 # Installing ESp32 and ESP8266 boards 
 Note: if you already have the ESP32 boards URL, you can separate the URLs with a comma as follows:
-1. https://dl.espressif.com/dl/package_esp32_index.json,
-2. http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://dl.espressif.com/dl/package_esp32_index.json,http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   
 <img width="722" height="607" alt="image" src="https://github.com/user-attachments/assets/5ff0e72d-48d2-4e81-bed5-497b81ca5a13" />
 
 ## Open the Boards Manager. Go to Tools > Board > Boards Manager…
